@@ -76,6 +76,9 @@ ________________________________________________________________________________
 This folder contains functions that can be used to discretize the two lifecycle processes from Section 4 
 “Finite-State Markov-Chain Approximations: A Hidden Markov Approach”: 
 
+Simulated data used as an input to these functions can be found here: 
+https://www.dropbox.com/scl/fo/tuw1535ckoz1u8m539g3b/AEcW9KQzMuHCUFUe4dn5Y00?rlkey=u815lzmy1g8jl8pmfmiy8dshh&st=kh3l6omh&dl=0
+
 * DiscretizeGKOS.m returns an age-dependent discretization for the process of Guvenen, Karahan, Ozkan and Song (2021) as discussed in the paper.
 * DiscretizeABB.m returns an age-dependent discretization for the process of Arellano, Blundell and Bonhomme (2017).
 
