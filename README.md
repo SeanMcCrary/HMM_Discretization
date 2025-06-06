@@ -148,7 +148,3 @@ For **stationary processes**, this means the following:
 
 ```matlab
 [Pi, Grid, ll, sige] = StationaryEM(Ysim, Pi0, Grid0)
-
-
-
-
